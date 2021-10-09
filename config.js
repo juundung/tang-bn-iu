@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Không, Anh trai à :3',
     question:'Anh muốn nhận được sự tha thứ của em và quên đi mọi chuyện. Nhưng nếu em không tha thứ cho anh, anh không thể quên được <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'em đồng í..chúng ta bình thường lại ạ <33333333',
+    reply: 'em đồng í..chúng ta bình thường lại ạ <333',
     mess: 'Anh biết mà 😘😘',
     messDesc: 'Tối nay chúng ta call nhé .',
     btnAccept: 'Okiiiii lun a',
