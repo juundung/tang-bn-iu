@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Trang  à!',
+    introTitle: 'Quỳnh Trang  à!',
     introDesc: `Nếu có một điều ước, anh sẽ ước là em chỉ đang giận anh, một chút hờn giận nho nhỏ mà thôi`,
     btnIntro: 'hihi',
     title: 'Một lời xin lỗi không thể đủ để xóa tan những hiểu lầm, những lỗi lầm anh gây ra. Nhưng giờ đây ngoài lời xin lỗi chân thành này ra anh không biết mình nên làm gì để được em tha thứ. Anh ước nếu thời gian quay trở lại, nhất định anh sẽ không để em phải buồn vì anh. 😙',
