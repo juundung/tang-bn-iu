@@ -1,16 +1,19 @@
 const CONFIG = {
-    introTitle: 'Quỳnh Trang  à!',
-    introDesc: `Nếu có một điều ước, anh sẽ ước là em chỉ đang giận anh, một chút hờn giận nho nhỏ mà thôi`,
+    introTitle: 'Kim Thoa   à!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Một lời xin lỗi không thể đủ để xóa tan những hiểu lầm, những lỗi lầm anh gây ra. Nhưng giờ đây ngoài lời xin lỗi chân thành này ra anh không biết mình nên làm gì để được em tha thứ. Anh ước nếu thời gian quay trở lại, nhất định anh sẽ không để em phải buồn vì anh. 😙',
-    desc: 'chúng ta trở lại như bình thường nhé  ',
+    title: '  Anh sẽ không chúc em điều gì cả vì em xứng đáng được hưởng tất cả những điều tốt đẹp nhất trên đời này 😙',
+    desc: 'Vẫn cứ là thích   ',
     btnYes: 'Dạ vâng a <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Anh muốn nhận được sự tha thứ của em và quên đi mọi chuyện. Nhưng nếu em không tha thứ cho anh, anh không thể quên được <3',
+    question:'Tặng em một món quà nhỏ bé đầy ắp sự chân thành, quan tâm và lời nguyện cầu của anh. Mong em luôn được an yên, hạnh phúc và vững vàng trước mọi khó khăn của cuộc sống <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'em đồng í..chúng ta bình thường lại ạ <333',
+    reply: 'em đồng í. <333',
     mess: 'Anh biết mà 😘😘',
-    messDesc: 'Tối nay chúng ta call nhé .',
+    messDesc: 'Thương em .',
     btnAccept: 'Okiiiii lun a',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
