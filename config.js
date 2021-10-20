@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Mãi bên nhau b nhớ  <333',
     mess: 'Dũng biết mà 😘😘',
     messDesc: '.',Ngày 20/10 chúc một nửa thế giới luôn thành công trong cuộc sống! Chúc bạn luôn duyên dáng và xinh đẹp trong mắt một nửa thế giới còn lại.
-    btnAccept: 'Okiiiii lun a',
+    btnAccept: 'Okiiiii lun b',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
