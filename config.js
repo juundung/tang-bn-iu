@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Phương Thảo à!',
+    introTitle: 'Phương Thảo à!'
     introDesc: `Gửi tặng bạn iu của tui <`,
     btnIntro: 'hihi',
     title: ' Ngày 20/10 chúc một nửa thế giới luôn thành công trong cuộc sống! Chúc bạn luôn duyên dáng và xinh đẹp trong mắt một nửa thế giới còn lại. 😙',
